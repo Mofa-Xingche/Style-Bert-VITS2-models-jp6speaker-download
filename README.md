@@ -28,7 +28,8 @@ Style Bert vits2 2.1 JPExtra ,5 JP muluti spearker model(<b>licence FREE(MIT)</b
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/AkLcK1iXnUam96vcBZLiS.png)
 
 <a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/OdSZN83ANoSquHVTnOKRj.wav">
-Download Sample Audio😂style:lol;text:これは合成した音声です、、あいつマジ凄いよね、うふふ。</a>
+Download Sample Audio😂style:lol;text:これは合成した音声です、、あいつマジ凄いよね、うふふ。
+</a>
 
 <a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/eoqDRdDMTn_Qt2o8bln6O.wav">
 Download Sample Audio😢style:down;text:これは合成した音声です、、あいつマジ凄いよね。</a>
