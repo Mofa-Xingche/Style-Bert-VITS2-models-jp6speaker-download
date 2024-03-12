@@ -1,3 +1,168 @@
+---
+license: mit
+language:
+- en
+- zh
+pipeline_tag: text-to-speech
+tags:
+- bert-vits2
+- female
+- style-bert-vits-jpextra
+- tts
+- bertvits2
+- text-to-speech
+- japanese
+---
+<h3>(Style Bert vits2 2.1 JPExtra) ,(5 JP muluti spearker contained AND 26 emotion styles model)</h3>
+<a href="https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models/tree/main" target="_blank">Download links</a><br>
+・<a href="https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models/resolve/main/NotAnimeJPManySpeaker_e120_s22200.safetensors?download=true" target="_blank">Download model file</a><br>
+・<a href="https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models/resolve/main/config.json?download=true" target="_blank">Download config file</a><br>
+・<a href="https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models/resolve/main/style_vectors.npy?download=true" target="_blank">Download style vectors file</a>
+
+・文章转语音人工智能模型/ AI Text-to-Speech / 記事音声合成人工知能モデルは、好きなテキストを音声に変換して読み上げることができます。<br>
+Style Bert vits2 2.1 JPExtra ,5 JP muluti spearker model(<b>licence FREE(MIT)</b>)<br>
+(JP 5 women) + (JP 1 men)  +  (<b>26 emotion styles</b>...ex sad,happy,lol..and more)...
+<br><b>学术研究目的;都是成年人;全員成人済み;面部照片和音频无关;顔写真は音声とは何の関係もありません。;Abuse prohibited,,滥用禁止,,悪用禁止</b><br>
+0 amazinGood
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/AkLcK1iXnUam96vcBZLiS.png)
+😂style:lol;text:これは合成した音声です、、あいつマジ凄いよね、うふふ。
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/OdSZN83ANoSquHVTnOKRj.wav"></audio>
+😢style:down;text:これは合成した音声です、、あいつマジ凄いよね。
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/eoqDRdDMTn_Qt2o8bln6O.wav"></audio>
+..and more styles
+<hr>
+1 calmCloud
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/cNitnYHaES2tM3PRQkSh6.png)
+😲style:ohmygod; text:これは合成した音声です、、あいつマジ凄いよね。
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/h68EWWXs51YP6IoO15Lg6.wav"></audio>
+😢style:down; text:これは合成した音声です、、ごめんなさい、、わたしのせいで、、まじですみません。
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/_LnFFbP1MQZSzX4_tCds3.wav"></audio>
+..and more styles
+<hr>
+2 coolcute
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/-6HcrpmdqCgr-P89JX83i.png)
+😐style:normal; text:これは合成した音声です、、あいつマジ凄いよね。
+
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/McbWjXhTYzVlFzvX_Y84B.wav"></audio>
+
+😢style:sad; text:これは合成した音声です、、ごめんなさい、わたしのせいで、まじでごめん。
+
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/gwYji-8zAfDbjgXxuwW2M.wav"></audio>
+..and more styles
+<hr>
+3 fineCrystal
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/56sW4urDf7EnQaIbsZe2E.png)
+😊style:fine; text:これは合成した音声だよ、、あいつマジ凄いよね、、ふふっ。
+
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/alW_ANB9G4ELLrXcaHJ9Y.wav"></audio>
+
+😢style:sad; text:これは合成した音声です、、ごめんなさい、、わたしのせいで、、まじですみません。
+
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/F3G_JO-XphDwQYB-WkKfx.wav"></audio>
+..and more styles
+<hr>
+4 lightFire
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/jNFqbX0p4hhHhHcndRBhZ.png)
+😂style:lol; text:これは合成した音声だよ、、あいつマジ凄いよね、、ふふっ。
+
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/SHiETA1c2ogNHd9CIK1Yk.wav"></audio>
+
+😐style:normal; text:これは合成した音声だよ、、普通の感情で話しているんだね。
+
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/5dbOrSev5A9D4MlKm0bsp.wav"></audio>
+
+<hr>
+
+
+
+
+
+<pre>
+      "spk2id": {
+      "NotAnime-JP-age20female-amazinGood": 0,
+      "NotAnime-JP-age20female-calmCloud": 1,
+      "NotAnime-JP-age20female-coolcute": 2,
+      "NotAnime-JP-age20female-fineCrystal": 3,
+      "NotAnime-JP-age20male-lightFire": 4
+    }
+</pre>
+使用教程
+https://github-com.translate.goog/litagin02/Style-Bert-VITS2?tab=readme-ov-file&_x_tr_sl=auto&_x_tr_tl=zh&_x_tr_hl=ja&_x_tr_pto=wapp#%E4%BD%BF%E3%81%84%E6%96%B9
+
+How to use
+https://github-com.translate.goog/litagin02/Style-Bert-VITS2?tab=readme-ov-file&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp#%E4%BD%BF%E3%81%84%E6%96%B9
+
+使用する方法
+https://github-com.translate.goog/litagin02/Style-Bert-VITS2?tab=readme-ov-file&_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp#%E4%BD%BF%E3%81%84%E6%96%B9
+
+ <pre>
+   #get audio
+   
+
+   #model files in to C:\Users\YOUR USERNAME\....\Style-Bert-VITS2\model_assets\ =>(NotAnimeJPManySpeaker_e120_s22200.safetensors),(config.json),(style_vectors.npy)
+   
+   python \Style-Bert-VITS2\server_fastapi.py
+
+   #browser url
+   http://127.0.0.1:5000/voice?text=<b>自動で読み上げていただくのはこの文章です</b>&model_id=<b>0</b>&speaker_id=<b>0</b>&style=<b>amazinGood(lol)</b>&style_weight=<b>2</b>&sdp_ratio=0.2&noise=0.5&noisew=0.9&length=0.9&language=JP&auto_split=false&split_interval=0.5&assist_text_weight=1&s=73X
+ </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre>
+    "num_styles": 25,
+  
+    "style2id": {
+      "Neutral": 0,
+  
+      "amazinGood(down)": 1,
+      "amazinGood(lol)": 2,
+      "amazinGood(onmygod)": 3,
+      "amazinGood(normal)": 4,
+  
+      "calmCloud(lol)": 5,
+      "calmCloud(question)": 6,
+      "calmCloud(down)": 7,
+      "calmCloud(hate)": 8,
+      "calmCloud(ohmygod)": 9,
+      "calmCloud(normal)": 10,
+  
+      "coolcute(onmygod)": 11,
+      "coolcute(normal)": 12,
+      "coolcute(fine)": 13,
+      "coolcute(sad)": 14,
+  
+      "fineCrystal(fine)": 15,
+      "fineCrystal(ohmygod)": 16,
+      "fineCrystal(veryfine)": 17,
+      "fineCrystal(normal)": 18,
+      "fineCrystal(sad)": 19,
+  
+      "lightFire(question)": 20,
+      "lightFire(hello)": 21,
+      "lightFire(normal)": 22,
+      "lightFire(strong)": 23,
+      "lightFire(lol)": 24
+</pre>
+
+girl-style-bert-vits2-JPExtra-models 
+
 # Style-Bert-VITS2
 
 Bert-VITS2 with more controllable voice styles.
