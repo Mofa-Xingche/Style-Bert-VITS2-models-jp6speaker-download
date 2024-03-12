@@ -108,7 +108,7 @@ https://github-com.translate.goog/litagin02/Style-Bert-VITS2?tab=readme-ov-file&
    #get audio
    
 
-   #model files in to C:\Users\YOUR USERNAME\....\Style-Bert-VITS2\model_assets\ =>(NotAnimeJPManySpeaker_e120_s22200.safetensors),(config.json),(style_vectors.npy)
+   #model files in to C:\Users\YOUR USERNAME\....\Style-Bert-VITS2\model_assets\NotAnimeJPManySpeaker\ =>(NotAnimeJPManySpeaker_e120_s22200.safetensors),(config.json),(style_vectors.npy)
    
    python \Style-Bert-VITS2\server_fastapi.py
 
