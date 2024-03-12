@@ -26,55 +26,56 @@ Style Bert vits2 2.1 JPExtra ,5 JP muluti spearker model(<b>licence FREE(MIT)</b
 0 amazinGood
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/AkLcK1iXnUam96vcBZLiS.png)
-😂style:lol;text:これは合成した音声です、、あいつマジ凄いよね、うふふ。
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/OdSZN83ANoSquHVTnOKRj.wav"></audio>
-😢style:down;text:これは合成した音声です、、あいつマジ凄いよね。
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/eoqDRdDMTn_Qt2o8bln6O.wav"></audio>
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/OdSZN83ANoSquHVTnOKRj.wav">Download Sample Audio😂style:lol;text:これは合成した音声です、、あいつマジ凄いよね、うふふ。</a>
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/eoqDRdDMTn_Qt2o8bln6O.wav">Download Sample Audio😢style:down;text:これは合成した音声です、、あいつマジ凄いよね。</a>
 ..and more styles
+
 <hr>
 1 calmCloud
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/cNitnYHaES2tM3PRQkSh6.png)
-😲style:ohmygod; text:これは合成した音声です、、あいつマジ凄いよね。
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/h68EWWXs51YP6IoO15Lg6.wav"></audio>
-😢style:down; text:これは合成した音声です、、ごめんなさい、、わたしのせいで、、まじですみません。
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/_LnFFbP1MQZSzX4_tCds3.wav"></audio>
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/h68EWWXs51YP6IoO15Lg6.wav">Download Sample Audio😲style:ohmygod; text:これは合成した音声です、、あいつマジ凄いよね。</a>
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/_LnFFbP1MQZSzX4_tCds3.wav">Download Sample Audio😢style:down; text:これは合成した音声です、、ごめんなさい、、わたしのせいで、、まじですみません。</a>
 ..and more styles
 <hr>
 2 coolcute
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/-6HcrpmdqCgr-P89JX83i.png)
-😐style:normal; text:これは合成した音声です、、あいつマジ凄いよね。
 
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/McbWjXhTYzVlFzvX_Y84B.wav"></audio>
 
-😢style:sad; text:これは合成した音声です、、ごめんなさい、わたしのせいで、まじでごめん。
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/McbWjXhTYzVlFzvX_Y84B.wav">Download Sample Audio😐style:normal; text:これは合成した音声です、、あいつマジ凄いよね。</a>
 
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/gwYji-8zAfDbjgXxuwW2M.wav"></audio>
+
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/gwYji-8zAfDbjgXxuwW2M.wav">Download Sample Audio😢style:sad; text:これは合成した音声です、、ごめんなさい、わたしのせいで、まじでごめん。</a>
 ..and more styles
 <hr>
 3 fineCrystal
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/56sW4urDf7EnQaIbsZe2E.png)
-😊style:fine; text:これは合成した音声だよ、、あいつマジ凄いよね、、ふふっ。
 
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/alW_ANB9G4ELLrXcaHJ9Y.wav"></audio>
 
-😢style:sad; text:これは合成した音声です、、ごめんなさい、、わたしのせいで、、まじですみません。
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/alW_ANB9G4ELLrXcaHJ9Y.wav">Download Sample Audio😊style:fine; text:これは合成した音声だよ、、あいつマジ凄いよね、、ふふっ。</a>
 
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/F3G_JO-XphDwQYB-WkKfx.wav"></audio>
+
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/F3G_JO-XphDwQYB-WkKfx.wav">Download Sample Audio😢style:sad; text:これは合成した音声です、、ごめんなさい、、わたしのせいで、、まじですみません。</a>
 ..and more styles
 <hr>
 4 lightFire
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/jNFqbX0p4hhHhHcndRBhZ.png)
-😂style:lol; text:これは合成した音声だよ、、あいつマジ凄いよね、、ふふっ。
 
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/SHiETA1c2ogNHd9CIK1Yk.wav"></audio>
 
-😐style:normal; text:これは合成した音声だよ、、普通の感情で話しているんだね。
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/SHiETA1c2ogNHd9CIK1Yk.wav">Download Sample Audio😂style:lol; text:これは合成した音声だよ、、あいつマジ凄いよね、、ふふっ。</a>
 
-<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/5dbOrSev5A9D4MlKm0bsp.wav"></audio>
+
+
+<a href src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/5dbOrSev5A9D4MlKm0bsp.wav">Download Sample Audio😐style:normal; text:これは合成した音声だよ、、普通の感情で話しているんだね。</a>
 
 <hr>
 
